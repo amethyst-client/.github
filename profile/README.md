@@ -1,33 +1,38 @@
-# 💎 Amethyst Client
+# Amethyst Studios
 
-Amethyst Client is a performance-focused Minecraft client built to improve stability, FPS, and overall gameplay without unnecessary bloat. The goal is simple: make the game run better while keeping everything clean and usable.
+Amethyst Studios is an indie dev studio where ideas are built, tested, and turned into real tools and plugins.
+
+We focus on creating practical, performance-driven software that actually gets used, not just shipped.
 
 ---
 
 ## What We Do
 
-* Build a lightweight client focused on real performance gains
-* Develop clean, minimal UI systems that don’t get in the way
-* Ship features that actually matter, no filler
+- Build performance-focused tools and systems  
+- Design clean, minimal interfaces that stay out of your way  
+- Ship features that solve real problems, no filler  
 
 ---
 
 ## Projects
 
-* **Amethyst Client**
-  Core client. Closed source. Focused on performance and utility.
+- **Amethyst Client**  
+  High-performance Minecraft client. Closed source. Focused on stability, FPS, and clean gameplay.
 
-* **Website & Tooling**
-  Open source projects under the MIT License. Used for community, distribution, and supporting tools.
+- **Amethyst Purge**  
+  PaperMC plugin built for structured, high-intensity PvP events.
+
+- **Website & Tooling**  
+  Open source projects used for distribution, community, and internal tooling.
 
 ---
 
 ## Philosophy
 
-* Performance first
-* Minimal over flashy
-* No unnecessary features
-* Built with real usage in mind
+- Performance first  
+- Minimal over flashy  
+- No unnecessary features  
+- Built for actual usage, not demos  
 
 ---
 
@@ -35,8 +40,8 @@ Amethyst Client is a performance-focused Minecraft client built to improve stabi
 
 Not everything here is open source.
 
-* Core client → All Rights Reserved
-* Supporting projects → MIT License
+- Core products → All Rights Reserved  
+- Supporting tools → MIT License  
 
 Each repository clearly states its license.
 
@@ -44,13 +49,13 @@ Each repository clearly states its license.
 
 ## Status
 
-Actively developed. Features and optimizations are continuously being improved.
+Actively developed. Constant improvements, no abandoned vibes.
 
 ---
 
 ## Disclaimer
 
-Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+Not an official Minecraft product. Not affiliated with Mojang or Microsoft.
 
 ---
 
